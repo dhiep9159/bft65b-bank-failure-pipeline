@@ -1,0 +1,8 @@
+data/
+*.csv
+*.parquet
+*.joblib
+spark_lr_model/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
